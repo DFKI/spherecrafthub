@@ -15,9 +15,9 @@ base_url = "https://zenodo.org"
 # Scenes list.
 #---------------------------------------------------------------
 scenes = ['bank', 'barbershop', 'berlin', 'classroom', 'garage', 'harmony', 'italianFlat', 'kartu', 'loneMonk',
-          'medievalPort', 'middleEast', 'passion', 'seoul', 'shapespark', 'showroom', 'simple', 'tokyo', 'urbanCanyon',
-          'vitoria', 'warehouse', 'berlinStreet', 'church', 'corridors', 'meetingRoom1', 'meetingRoom2', 'stadium',
-          'townSquare', 'trainStation', 'uni']
+          'medievalPort', 'middleEast', 'passion', 'rainbow', 'seoul', 'shapespark', 'showroom', 'simple', 'tokyo',
+          'urbanCanyon', 'vitoria', 'warehouse', 'berlinStreet', 'church', 'corridors', 'meetingRoom1', 'meetingRoom2',
+          'stadium', 'townSquare', 'trainStation', 'uni']
 
 #---------------------------------------------------------------
 # Record-Number to Record-ID mapping.
